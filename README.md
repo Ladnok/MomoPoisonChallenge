@@ -66,4 +66,5 @@ Once cloned, you can open the solution file (`MomoPoisonChallenge.sln`) and star
 5. The compiled `.dll` file will be generated in the `bin\Release` folder.
 
 ### Using Your Compiled Version
-Once compiled, follow the **Installation** steps above, replacing `MomoPoisonChallenge.dll` with your newly built version.
+Once compiled, the new `MomoPoisonChallenge.dll` will be located in the root directory, inside a folder named `Components`.<br>
+After that just follow the **Installation** steps above, replacing `MomoPoisonChallenge.dll` with your newly built version.
