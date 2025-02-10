@@ -2,7 +2,7 @@
 Livesplit component for the game Momodora:RUTM. Currently supporting game version v1.07
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/Ladnok/MomoPoisonChallenge/refs/heads/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Ladnok/MomoPoisonChallenge/blob/v1.0/LICENSE) file for details.
 
 This project uses LiveSplit, which is licensed under the MIT License.
 
