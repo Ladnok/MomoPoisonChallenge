@@ -11,9 +11,10 @@ First, make sure that you have a LiveSplit installation http://livesplit.org/dow
 
 1. Download the latest version of MomoPoisonChallenge.dll from the [Releases](https://github.com/Ladnok/MomoPoisonChallenge/releases) page.
 2. Navigate to your LiveSplit installation folder, then place MomoPoisonChallenge.dll inside: LiveSplit/Components/
-3. Launch LiveSplit, go to Edit Layout, and add the "Momodora RUtM Poison Challange" component from the "Other" category.
+3. Launch LiveSplit, go to Edit Layout, and add the "Momodora RUtM Poison Challenge" component from the "Other" category.
 
-![image](https://github.com/user-attachments/assets/85145167-5a1b-4a15-9c0d-4a15156b75bf)
+![image](https://github.com/user-attachments/assets/24756834-23da-413e-889e-76bbb847dba5)
+
 
 ## How to use
 Once you have added the component to the layout:
