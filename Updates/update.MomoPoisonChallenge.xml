@@ -1,0 +1,10 @@
+﻿<updates>
+  <update version="1.0">
+    <files>
+      <file path="Components/MomoPoisonChallenge.dll" status="changed"/>
+    </files>
+    <changelog>
+      <change>First version of the component.</change>
+    </changelog>
+  </update>
+</updates>
