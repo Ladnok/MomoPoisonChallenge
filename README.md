@@ -1,4 +1,4 @@
- # MomoPoisonChallenge
+# MomoPoisonChallenge
 Livesplit component for the game Momodora:RUTM. Currently supporting game version v1.07
 
 ## License
