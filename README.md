@@ -1,6 +1,9 @@
 # MomoPoisonChallenge
 Livesplit component for the game Momodora:RUTM. Currently supporting game version v1.07
 
+- This challenge introduces **permanent poison** throughout the entire game, making it harder.
+- **Boss item drops are not affected** – you will still receive them as intended.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Ladnok/MomoPoisonChallenge/blob/main/LICENSE) file for details.
 
